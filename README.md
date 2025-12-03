@@ -2,6 +2,10 @@
 
 Vue.js 3 SPA frontend for the TaskFlow API.
 
+## Demo
+
+🎬 [Watch the demo on YouTube](https://www.youtube.com/watch?v=oQ9n8wlBRNE)
+
 ## Tech Stack
 
 - Vue.js 3 (Composition API)
